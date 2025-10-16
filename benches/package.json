@@ -21,7 +21,7 @@
     "escape-string-regexp": "^5.0.0",
     "globby": "^13.1.2",
     "prompts": "^2.4.2",
-    "puppeteer": "^21.4.1",
+    "puppeteer": "^24.22.3",
     "sade": "^1.8.1",
     "strip-ansi": "^7.0.1",
     "tachometer": "^0.7.0"
