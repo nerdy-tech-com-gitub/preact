@@ -247,7 +247,7 @@
     "sinon": "^9.2.3",
     "sinon-chai": "^3.7.0",
     "typescript": "^4.9.5",
-    "undici": "^4.12.0"
+    "undici": "^7.16.0"
   },
   "overrides": {
     "webdriverio": "7.30.2"
